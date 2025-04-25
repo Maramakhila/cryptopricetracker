@@ -15,3 +15,4 @@ git clone https://github.com/Maramakhila/cryptopricetracker.git
 cd cryptopricetracker
 npm install
 npm start
+## App Screenshots
