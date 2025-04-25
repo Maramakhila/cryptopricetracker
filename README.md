@@ -15,11 +15,11 @@ git clone https://github.com/Maramakhila/cryptopricetracker.git
 cd cryptopricetracker
 npm install
 npm start
-                                                                                       Tech Stack
-React
 
-Redux Toolkit
+## App Screenshots
 
-CSS Modules
+### Desktop View (Detailed Metrics)  
+![Desktop Interface](./screenshots/desktop-view.png)  
 
-Create React App
+### Mobile View (Compact Layout)  
+![Mobile Interface](./screenshots/mobile-view.png)                                                                                    
