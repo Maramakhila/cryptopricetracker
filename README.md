@@ -16,10 +16,3 @@ cd cryptopricetracker
 npm install
 npm start
 
-## App Screenshots
-
-### Desktop View (Detailed Metrics)  
-![Desktop Interface](./screenshots/desktop-view.png)  
-
-### Mobile View (Compact Layout)  
-![Mobile Interface](./screenshots/mobile-view.png)                                                                                    
