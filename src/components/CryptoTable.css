@@ -1,0 +1,98 @@
+/* components/CryptoTable.css */
+.table-container {
+    overflow-x: auto;
+    margin: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .crypto-table {
+    width: 100%;
+    min-width: 1200px;
+    border-collapse: collapse;
+    background: white;
+    font-size: 14px;
+  }
+  
+  th, td {
+    padding: 12px 15px;
+    text-align: right;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
+  th {
+    background: #f8fafd;
+    font-weight: 600;
+    color: #64748b;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
+  
+  td {
+    color: #1e293b;
+  }
+  
+  .rank {
+    width: 50px;
+    text-align: center;
+  }
+  
+  .name {
+    text-align: left;
+    min-width: 200px;
+  }
+  
+  .price {
+    min-width: 120px;
+  }
+  
+  .change {
+    min-width: 90px;
+  }
+  
+  .market-cap, .volume {
+    min-width: 160px;
+  }
+  
+  .supply {
+    min-width: 150px;
+    text-align: right;
+  }
+  
+  .chart {
+    min-width: 150px;
+  }
+  
+  .coin-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .coin-logo {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .positive {
+    color: #16c784;
+  }
+  
+  .negative {
+    color: #ea3943;
+  }
+  
+  .supply-line {
+    color: #94a3b8;
+    font-size: 12px;
+  }
+  
+  .chart-placeholder {
+    color: #cbd5e1;
+    font-size: 12px;
+  }
+  
+  .sparklines {
+    display: block;
+    margin: 0 auto;
+  }
